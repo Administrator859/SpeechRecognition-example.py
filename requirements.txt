@@ -1,0 +1,10 @@
+*****YOU CAN INSTALL IT IN COMMAND PROMPT******
+
+python3==is important
+
+playsound==1.2.2
+SpeechRecognition==3.8.1
+
+***YOU CAN DOWNLOAD IT HERE***  https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
+pyaudio==0.2.11
